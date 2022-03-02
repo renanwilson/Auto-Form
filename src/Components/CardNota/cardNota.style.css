@@ -1,0 +1,15 @@
+.cardNota{
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+}   
+.cardNota h3{
+    font-weight: 700;
+    font: 2em sans-serif;
+}
+.cardNota h4{
+    font-weight: 200;
+    font: 0.8em sans-serif;
+    margin-bottom: 5px;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,19 @@
+.lista{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+    display: flex;  
+    column-gap: 10px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.lista li{
+    border: 1px solid #050505;
+    border-radius: 4px;
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    height: 25%;
+    padding: 8px;
+    line-height: 20px;
+}
