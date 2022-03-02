@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Este projeto tem como finalidade ampliar meus conhecimentos de React, usando conhecimentos da Alura e ampliado por mim. É num geral um leitor de formúlario automático, que pode ser usado como uma agenda.
+Este projeto tem como finalidade ampliar meus conhecimentos de React, usando o curso da Alura como uma base e ampliado por mim. É num geral um leitor de formúlario automático, que pode ser usado como uma agenda.
 
 # Getting Started with Create React App
 
